@@ -1,4 +1,4 @@
 firenza
 =======
 
-Random repository
+Project firenza repository
